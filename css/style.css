@@ -49,7 +49,7 @@ p{
 
 a{
   font-size: 16px;
-  color: #B92751;
+  color: #B21F50;
   text-decoration-line: underline;
   text-decoration-style: wavy;
 }
@@ -95,7 +95,7 @@ tr:nth-of-type(even) {
 }
 
 tr:hover { 
-  background-color: rgba(185, 39, 81, 0.25);
+  background-color: rgba(126, 8, 32, 0.25);
 }
 
 /*Req 7*/
@@ -135,6 +135,6 @@ footer{
   color: #FFFFFF;
   min-height: 75px;
   bottom: 0px; 
-  position: relative; 
+  position: fixed; 
 }
 
