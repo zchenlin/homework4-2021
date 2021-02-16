@@ -37,7 +37,7 @@ body{
 }
 
 h1{
-  color: #c1225 8;
+  color: #c12258;
   font-size: 2em;
   text-align: center;
   line-height: 200%;
@@ -76,7 +76,7 @@ tr {
   text-transform: uppercase; 
   padding: 10px;
   background-color: #7e0820;
-  text-align: center; 
+  text-align: center;
   min-width: 125px; 
 
 }
@@ -128,11 +128,6 @@ tbody tr:last-child td:last-child {
   border-spacing: 0px; 
 }
 
-
-/*Add selectors and rules here*/
-
-
-/*Req 8*/
 footer{
   width:100%;
   background:#000000;
@@ -140,6 +135,6 @@ footer{
   color: #FFFFFF;
   min-height: 75px;
   bottom: 0px; 
-  position: fixed; 
+  position: relative; 
 }
 
