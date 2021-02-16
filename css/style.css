@@ -91,7 +91,7 @@ tr:nth-of-type(odd) {
 }
 
 tr:nth-of-type(even) { 
-  background-color: #7e0820;
+  background-color: #D1D1D1;
 }
 
 tr:hover { 
@@ -118,13 +118,13 @@ thead tr:last-child th:last-child {
   border-spacing: 0px; 
 }
 
-tbody tr:last-child th:last-child {
-  border-radius: 0 0 10px 0; 
+tbody tr:last-child th:first-child {
+  border-radius: 0 0 0 10px; 
   border-spacing: 0px; 
 }
 
-tbody tr:last-child(2) th:last-child(2) {
-  border-radius: 0 0 0 10px; 
+tbody tr:last-child td:last-child {
+  border-radius: 0 0 10px 0; 
   border-spacing: 0px; 
 }
 
