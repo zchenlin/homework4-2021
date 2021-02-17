@@ -73,6 +73,7 @@ tr {
 /*Req 6b*/
 .colhead{
   color: #FFFFFF;
+  vertical-align: middle;
   text-transform: uppercase; 
   padding: 10px;
   background-color: #7e0820;
@@ -136,5 +137,6 @@ footer{
   min-height: 75px;
   bottom: 0px; 
   position: fixed; 
+  margin-left: 0px; 
 }
 
